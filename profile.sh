@@ -1,2 +1,2 @@
-cd ./profile
-cp .emacs .gitconfig ~
+cp -a ./profile/. ~
+
