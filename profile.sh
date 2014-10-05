@@ -1,2 +1,2 @@
-cd ./config
+cd ./profile
 cp .emacs .gitconfig ~
