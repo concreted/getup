@@ -10,5 +10,3 @@ alias e='emacs'
 alias cls='clear'
 
 alias brc='source ~/.bashrc'
-
-export PATH="$PATH:$HOME/npm/bin"
