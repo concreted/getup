@@ -4,6 +4,7 @@ alias ga='git add'
 alias gcm='git commit'
 alias gp='git push'
 alias gb='git branch'
+alias gprum='git pull --rebase upstream master'
 
 alias e='emacs'
 
